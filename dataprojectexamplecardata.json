@@ -1,0 +1,51 @@
+[
+    {
+      "userid": 1,
+      "carPlate": "SXG657",
+      "parkedCurrently": false,
+      "parkingName": "9457 Onsgard Pass",
+      "transcurredParkedTime": "3:28:37"
+    }, {
+      "userid": 1,
+      "carPlate": "ZZF324",
+      "parkedCurrently": true,
+      "parkingName": "9352 Hudson Junction",
+      "transcurredParkedTime": "2:32:12"
+    }, {
+      "userid": 3,
+      "carPlate": "JPR896",
+      "parkedCurrently": false,
+      "parkingName": "7691 Merry Court",
+      "transcurredParkedTime": "2:07:56"
+    }, {
+      "userid": 4,
+      "carPlate": "NWG064",
+      "parkedCurrently": true,
+      "parkingName": "89 Pawling Way",
+      "transcurredParkedTime": "3:27:26"
+    }, {
+      "userid": 3,
+      "carPlate": "JBB019",
+      "parkedCurrently": true,
+      "parkingName": "5 Fairview Parkway",
+      "transcurredParkedTime": "0:57:52"
+    }, {
+      "userid": 4,
+      "carPlate": "HSZ784",
+      "parkedCurrently": true,
+      "parkingName": "35 Eagle Crest Place",
+      "transcurredParkedTime": "2:07:27"
+    }, {
+      "userid": 4,
+      "carPlate": "CTV181",
+      "parkedCurrently": true,
+      "parkingName": "35 Eagle Crest Place",
+      "transcurredParkedTime": "0:16:00"
+    }, {
+      "userid": 5,
+      "carPlate": "SAX075",
+      "parkedCurrently": true,
+      "parkingName": "269 David Drive",
+      "transcurredParkedTime": "1:33:44"
+    }
+]
